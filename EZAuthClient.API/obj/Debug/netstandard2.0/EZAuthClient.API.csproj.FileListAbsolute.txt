@@ -1,0 +1,9 @@
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/bin/Debug/netstandard2.0/EZAuthClient.API.deps.json
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/bin/Debug/netstandard2.0/EZAuthClient.API.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/bin/Debug/netstandard2.0/EZAuthClient.API.pdb
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/obj/Debug/netstandard2.0/EZAuthClient.API.csprojAssemblyReference.cache
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/obj/Debug/netstandard2.0/EZAuthClient.API.csproj.CoreCompileInputs.cache
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/obj/Debug/netstandard2.0/EZAuthClient.API.AssemblyInfoInputs.cache
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/obj/Debug/netstandard2.0/EZAuthClient.API.AssemblyInfo.cs
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/obj/Debug/netstandard2.0/EZAuthClient.API.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.API/obj/Debug/netstandard2.0/EZAuthClient.API.pdb

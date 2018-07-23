@@ -1,0 +1,17 @@
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/EZAuthClient.Tests.deps.json
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/EZAuthClient.Tests.runtimeconfig.json
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/EZAuthClient.Tests.runtimeconfig.dev.json
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/EZAuthClient.Tests.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/EZAuthClient.Tests.pdb
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/obj/Debug/netcoreapp2.0/EZAuthClient.Tests.csprojAssemblyReference.cache
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/obj/Debug/netcoreapp2.0/EZAuthClient.Tests.csproj.CoreCompileInputs.cache
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/obj/Debug/netcoreapp2.0/EZAuthClient.Tests.AssemblyInfoInputs.cache
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/obj/Debug/netcoreapp2.0/EZAuthClient.Tests.AssemblyInfo.cs
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/obj/Debug/netcoreapp2.0/EZAuthClient.Tests.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/obj/Debug/netcoreapp2.0/EZAuthClient.Tests.pdb
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/EZAuthClient.API.dll
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/bin/Debug/netcoreapp2.0/EZAuthClient.API.pdb
+/home/ayman/Projects/ezauth-client/EZAuthClient.Tests/obj/Debug/netcoreapp2.0/EZAuthClient.Tests.csproj.CopyComplete
